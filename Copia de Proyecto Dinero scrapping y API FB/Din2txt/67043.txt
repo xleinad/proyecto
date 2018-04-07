@@ -1,0 +1,9 @@
+Alertan por correo con malware a nombre de la CFE
+Ciudad de México.- Desde el último mes del año pasado, la empresa ESET que se dedica a la detección de amenazas, recibió la notificación de que está en circulación un correo fraudulento supuestamente enviado por la Comisión Federal de Electricidad (CFE), el cual se encarga de propagar malware.
+En un comunicado, la empresa de antivirus precisó que se trata de correos electrónicos que pretenden diseminar códigos maliciosos a través de macros de Word, las cuales ya se habían utilizado anteriormente en instituciones bancarias, de telefonía y aerolíneas.
+Refirió que esta ocasión el correo electrónico con el virus hacía alusión a una supuesta deuda de usuarios de la Comisión Federal de Electricidad, y exhortaban al destinatario a revisar un documento para evitar posibles sanciones.
+Dicho documento era un archivo adjunto en formato de Word, “CFE_Factura.doc”, el cual en realidad se trababa de un código malicioso que permite descargar otro malware detectado por ESET, como Win32/Nurevt.I.
+El documento de Word sugería al usuario habilitar las macros que por defecto se encuentran deshabilitadas como medida de seguridad, con el propósito de engañarlo y asegurar la descarga efectiva de un segundo programa malicioso.
+ESET, al detectarlo como Win32/Neurevt.I. Neurevt, descubrió que el programa malicioso tiene el propósito de obtener contraseñas e información de los usuarios.
+ 
+Jbf

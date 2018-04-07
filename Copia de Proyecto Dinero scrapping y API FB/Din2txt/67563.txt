@@ -1,0 +1,15 @@
+No importa la situación, este centro de datos te mantiene conectado
+Normalmente, un centro de datos es un área en la que operan las Infraestructuras, Tecnologías de la Información y Comunicaciones que utilizan las compañías para gestionar su actividad empresarial.
+En ellos se almacenan y procesan los datos de negocio, que ayudan a las empresas a tener una mejor visión del pasado, un panorama del presente y una perspectiva del futuro.
+Sin embargo, cuando la empresa no puede tener un centro de datos en sus instalaciones, o no tiene una forma eficiente de acceder a ellos, es entonces cuando aparece la opción de que uno de estos vaya hasta donde está el negocio.
+Así es, los centros de datos móviles son una nueva opción de administración de información tecnológica, en exponencial crecimiento en los mercados mundiales.
+Un centro de datos móvil tiene las mismas funciones que uno fijo, pero se presenta como una solución más flexible para las empresas que necesitan de estos servicios. Por ejemplo, en el caso de que se presente algún desastre natural o se necesite internet en locaciones remotas, se puede llevar a donde ocurre el imprevisto, pues su rápido despliegue permite cubrir con rapidez distintas emergencias de negocio.
+Pero los beneficios de los centros de datos móviles van más allá, pues hacen más sencillo el almacenamiento masivo de información para las empresas, y a un menor costo en recursos financieros y tiempos de respuesta. De inicio, en lugar de construir un centro de datos al interior del edificio de la compañía, resulta más sencillo llevar uno móvil a las instalaciones de la misma; además, solo necesitan una conexión a una fuente eléctrica para funcionar.
+Por otra parte, un centro de datos móvil es una inversión que conviene a aquellas empresas que rentan oficinas, y que, en algún momento, podrían desplazarse por razones de crecimiento u otras relacionadas a su condición rentista.
+Finalmente, los centros de datos móviles son soluciones que se ajustan a las necesidades de las empresas, pues permiten crecer modularmente. Por el lado económico, evita el gasto que significa construir todo un centro de datos.
+Desde el 2013 KIO Networks, empresa mexicana especializada en los centros de datos y proveedora de servicios de Tecnologías de Información, ha desarrollado ATOM, una solución móvil para almacenar información enfocada a la atención y solución de las distintas necesidades que se presentan en el mercado.
+El concepto del ATOM es el de todo en uno, y fue concebido para que sea flexible y rápido; todo lo que necesita un centro de datos ya está incluido. Es un contenedor estándar, que se monta en cualquier tráiler, grúa, barco y hasta se puede subir a un helicóptero.
+Los sectores que más utilizan este tipo de servicios son, entre otros: gobierno, bancos, espectáculos, industria minera y petrolera.
+Además, en este caso, no sólo se trata de la adquisición del ATOM, sino que KIO Networks ofrece el servicio de soporte, operación y mantenimiento de los equipos, lo que hace la gran diferencia entre las opciones existentes en el mercado.
+ 
+Jbf

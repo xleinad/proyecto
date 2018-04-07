@@ -1,0 +1,40 @@
+Lo contraproducente de las 'puertas traseras' en el ciberespacio
+Sin encriptación, el tráfico de Internet bien podría estar escrito en tarjetas postales. Esa es la razón por la cual gobiernos, banqueros y minoristas codifican sus mensajes, al igual que lo hacen los terroristas y criminales.
+ 
+Por tanto, para las agencias de espionaje, descifrar los métodos de encriptación es una prioridad. Usar la fuerza bruta computacional es costoso y lento, porque hacer códigos es mucho más fácil que descifrarlos. 
+ 
+Una alternativa es forzar a las compañías a ayudar a las autoridades a descifrar la encriptación de sus clientes, el meollo de una nueva ley aprobada recientemente en China y un poder que las agencias de espionaje occidentales también desean.
+ 
+Otra alternativa es abrir “puertas traseras”, fallas en el software o hardware que hacen posible adivinar o robar las claves de encriptación. 
+ 
+Esas puertas traseras pueden ser el resultado de errores de programación, pueden ser incorporadas por default, con la cooperación del proveedor de encriptación, o pueden ser creadas a través de una manipulación no autorizada del software, o podrían resultar de alguna combinación de las tres opciones.
+ 
+Sugerimos: 5 sorpresas que nos podría dar la economía mundial en 2016
+ 
+El problema con las puertas traseras es que, aunque hacen la vida más fácil para los espías, también hacen al Internet menos seguro para todos los demás. Revelaciones recientes que involucran a Juniper, un fabricante estadounidense de hardware y software de establecimiento de redes, demuestran vívidamente en qué forma.
+ 
+Juniper reveló en diciembre que una puerta trasera, que data de 2012, permite a alguien con conocimiento de ella leer el tráfico encriptado por su software de “red privada virtual”, o VPN, que es usado por compañías y agencias gubernamentales en todo el mundo para conectar a diferentes oficinas vía el Internet público. 
+ 
+Es poco claro quién es responsable, pero la falla podría haber surgido cuando una agencia de espionaje instaló una puerta trasera que luego fue modificada en secreto por otra. La puerta trasera involucró un generador de números aleatorios defectuoso en un estándar de encriptación impulsado por la Agencia de Seguridad Nacional (ASN) de Estados Unidos, aunque otros indicios apuntan a las agencias de espionaje de China o Gran Bretaña.
+ 
+Descifrar mensajes que involucren a uno o más blancos de espionaje es evidentemente parte del mandato de una agencia de espionaje, y hay buenas razones por las cuales los gobiernos deberían poder espiar, por el bien de la seguridad nacional y dentro de los límites legales. 
+ 
+El peligro es que las puertas traseras introducidas para espiar pudieran terminar siendo usadas también para fines perversos por espías deshonestos, gobiernos enemigos o malhechores que desean espiar a los respetuosos de las leyes. Es poco claro quién instaló la puerta trasera de Juniper, quién la usó y con qué finalidad.
+ 
+Las agencias de espionaje argumentan que las puertas traseras pueden ser mantenidas en secreto y son lo suficientemente complejas para que su uso no autorizado sea improbable, pero una persona externa podría toparse con una debilidad o robar detalles de ella.
+ 
+Estados Unidos, en particular, tiene un historial lamentable cuando se trata de almacenar secretos de manera segura. En el verano se supo que la Oficina de Administración de Personal, que almacena los delicados datos personales de más de 20 millones de empleados federales y otros, había sido penetrada, supuestamente por los chinos. 
+ 
+Algunos llaman a eso el mayor desastre en la historia del espionaje estadounidense. Rivaliza solo con los datos robados por Edward Snowden, un ex contratista de la ASN que ahora vive en Moscú.
+ 
+Las autoridades responsables de la seguridad de los aeropuertos también dejaron escapar los detalles de las claves maestras que pueden abrir las maletas más disponibles comercialmente, una forma de puerta trasera física.
+ 
+Por tanto, debería mostrarse resistencia ante los llamados a la inclusión obligatoria de las puertas traseras. Su uso potencial por parte de criminales debilita la seguridad del Internet en general, de la cual dependen miles de millones de personas para transacciones bancarias y pagos. 
+ 
+Su existencia también socava la confianza en las compañías de tecnología y dificulta que los gobiernos occidentales critiquen a los regímenes autoritarios por interferir con el Internet. Su imposición sería inútil en cualquier caso: un software de encriptación poderoso, sin puertas traseras, está disponible gratuitamente en Internet para quien lo quiera.
+ 
+En vez de debilitar la encriptación de todos aprovechando las puertas traseras, los espías deberían usar otros medios. Los ataques en París en noviembre tuvieron éxito no porque los terroristas usaran la magia computacional, sino porque la información sobre sus actividades no fue compartida entre las naciones y agencias.
+ 
+Cuando es necesario, la ANS y otras agencias habitualmente pueden introducirse en las computadoras o teléfonos de los sospechosos. Eso es más difícil y más lento que usar una puerta trasera universal, pero es más seguro para todos los demás.
+ 
+kgb

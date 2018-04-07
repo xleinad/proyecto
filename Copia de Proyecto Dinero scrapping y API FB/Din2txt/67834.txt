@@ -1,0 +1,8 @@
+Si tu chofer va muy rápido, Uber lo sabrá gracias a esto
+CIUDAD DE MÉXICO.- Una de las cosas que aprecian más los usuarios de servicios de transporte como Uber, es poder calificar a los choferes, sin embargo, hay algunas ocasiones en las que es necesario contactar a Uber para poner una queja y en esas ocasiones puede tratarse de la palabra del usuario contra la del chofer.
+Sin embargo, la tecnología también puede ayudar aquí. Por ejemplo, si te parece que tu chofer conducía a exceso de velocidad, Uber podrá confirmar esto mediante los sensores del smartphone.
+La firma utilizará el girómetro del teléfono y los datos del GPS para monitorear la conducta del conductor.
+Los girómetros en los teléfonos pueden medir pequeños movimientos, mientras que los GPS y acelerómetros muestran la frecuencia con la que un vehículo empieza a andar y para, así como la velocidad en general”, aseguró Joe Sullivan, jefe de la oficina de seguridad de Uber, en un post en el blog oficial de la empresa.
+
+Si un pasajero — asegura Sullivan — se queja de que el conductor acelera muy rápido y frena muy fuerte, podemos revisar ese viaje usando los datos. Si la información es correcta, nos pondremos en contacto con el conductor y si no, nos aseguraríamos de que la calificación del conductor no se vea afectada.
+*DR

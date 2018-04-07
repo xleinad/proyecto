@@ -1,0 +1,8 @@
+¡Cuidado! Este es el primer virus del 2016
+CIUDAD DE MÉXICO.- El primer virus del 2016 llegó y se llama Ransom32, el cual encripta tus archivos y pide que pagues una cantidad determinada para liberarlos.
+De acuerdo con Emsisoft, una empresa de protección de computadoras, advierte que este virus se esconde en archivos comprimidos con extensión .rar y es capaz de extraerse y ejecutarse por sí mismo.
+Una vez ejecutado e instalado, arroja una pantalla en la que se pide el pago a una cartera de bitcoins para liberar los archivos.
+Entre las extensiones que encripta para que el usuario no pueda acceder a los archivos se encuentran las más usadas como imágenes, documentos de Office, música y extensiones para navegar en internet.
+Es importante mencionar que aunque sólo se han visto versiones del virus para Windows, el virus usa JavaScript, lo que en teoría hace posible que pueda existir también para Mac OS X y Linux.
+La mejor manera de evitar el virus es no descargar archivos de sitios desconocidos, abrir archivos en correos sospechosos, tener un respaldo de la información en tu computadora y contar con un antivirus.
+*gl

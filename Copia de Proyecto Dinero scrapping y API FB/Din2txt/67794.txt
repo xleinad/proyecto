@@ -1,0 +1,7 @@
+Si abres este link desde tu iPhone te vas a llevar un buen susto
+CIUDAD DE MÉXICO.- Algunos usuarios han reportado en Twitter un link que te lleva a CrashSafari.com y que provoca que tu iPhone se trabe y lo tengas que reiniciar.
+No se trata más que de una broma ya que, una vez reiniciado el teléfono, no le pasará nada, pero seguro te llevarás un buen susto. Además, el link pasma también, el iPad, la Mac y también Chrome si lo intentas desde una PC o un dispositivo con Android.
+Lo que provoca que se traben los dispositivos es que el link genera una cadena interminable de caracteres que hace cada vez más difícil al navegador responder y eventualmente satura la memoria del dispositivo.
+De acuerdo con 9To5Mac, anque el link a crashsafari debería ser fácil de identificar, algunos están usando herramientas que acortan el link e impiden leer la dirección y lo acompañan con algún mensaje llamativo.
+Así que ten con cuidado a lo que le das clic, sobre todo si ves un link que fue acortado y que se ve como ow.ly o bit.ly.
+*DR

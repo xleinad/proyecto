@@ -1,0 +1,21 @@
+Sigue la conversación del #WEF16 en Twitter con esta herramienta
+CIUDAD DE MÉXICO.- El Foro Económico Mundial se desarrollará en Davos del 20 al 23 de enero, donde líderes de empresas y de gobiernos se reunirán para hablar de los retos que enfrenta el mundo, tanto en materia económica, como tecnológica y humanitaria.
+Sigue la conversación en Twitter alrededor del evento con esta herramienta de KPMG:
+
+
+<!--//--><![CDATA[// ><!--
+(function(d, t) {
+var s = d.createElement(t), options = {
+id: "shore-embed-895251",
+src: "https://www.weflive.com/widgets/?page=all&autoresize=false&title=Tuits%2520desde%2520Davos%25202016&font=Helvetica%20Neue&width=100%25&height=840&lang=es&header=true&topic=all-topics&color=179be7&logo=true",
+width: "100%",
+height: "840",
+autoresize: false};
+s.src = "https://www.weflive.com/static/js/embed.js";
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != "complete") if (rs != "loaded") return;
+try { se = new ShoreEmbed(); se.initialize(options); se.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, "script");
+//--><!]]>
+*gl

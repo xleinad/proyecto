@@ -1,0 +1,19 @@
+Tu smart TV podría convertirte en presa de cibercriminales
+CIUDAD DE MÉXICO.- La lenta adopción de la tecnología conocida como internet de las cosas (IoT, por sus siglas en inglés) en América Latina pone a la región a salvo de ataques informáticos, por ahora; sin embargo, los beneficios de que prácticamente cualquier aparato esté conectado a internet y el potencial de negocio del rubro están en la mira de cibercriminales, que pueden hackear desde un televisor inteligente para grabar conversaciones, hasta un automóvil, para controlarlo a distancia con resultados fatales, advirtió Dymitri Bestuzhev, director del Equipo de Investigación y Análisis de Kaspersky Lab.
+Bestuzhev recordó que, en su mayoría, ha sido la obra de gente que pertenece a empresas de seguridad informática para encontrar las vulnerabilidades y así advertir sobre los riesgos; sin embargo a la larga esto también puede ser explotado por los cibercriminales.
+Es posible que en cinco años este tipo de amenazas sean más comunes, pero de momento en la región no es un problema”, aseguró en entrevista con Excélsior.
+
+Esto porque la adopción en América Latina de los dispositivos con esta tecnología es lenta debido a los precios, a lo que se añade la necesidad de plataformas que brinden servicios que hagan estos equipos útiles.
+Bestuzhev no duda que estos equipos conectados a la red se vuelvan un problema a futuro, aunque este no será el caso en 2016; todo depende de qué tan rápido se abra la puerta a la nueva tecnología.
+Hay interés
+Lo cierto es que cifras de la consultora IDC indican que las empresas y gobiernos en la región latinoamericana ven al internet de las cosas como un sector con oportunidades.
+Prevén que 59% de las empresas explorará la implementación de una iniciativa para IoT en este año, mientras que el 80% de la inversión provendrá de sectores como el consumo, seguido de manufacturas, transporte y gobierno.
+Esto provocará que también existan miles de compañías que ofrezcan soluciones de IoT en la región para el año 2020”, aseguró el vicepresidente de análisis e investigación de IDC para América Latina, Ricardo Villate.
+
+Otra muestra del interés que despierta este sector es que, en la feria tecnológica CES 2016, que inicia mañana en Las Vegas, en Estados Unidos, varias empresas mostrarán sus nuevas soluciones, como LG o Samsung con sus ecosistemas para el hogar. Mientras que compañías como CyberVista aprovecharán el foro para examinar el “lado oscuro” del mundo conectado a la red.
+La protección
+El director del Equipo de Investigación y Análisis para Kaspersky Lab América Latina indicó que todos los equipos que existen en el mundo pueden llegar a tener un fallo o vulnerabilidad que los cibercriminales pueden aprovechar, por lo que es necesario desarrollar dispositivos pensando en la seguridad desde un inicio.
+Siempre viene primero el sistema o el equipo, después la seguridad cuando las cosas ya van mal”, advirtió.
+
+De ahí la importancia de algunas propuestas, como la hecha por Gemalto, que planea usar su experiencia en los pagos móviles para mejorar la seguridad de los equipos usados en empresas automotrices, o bien el caso de Microsoft que prometió añadir encriptación y un “arranque seguro” en su sistema operativo Windows 10 para IoT.
+*DR

@@ -1,0 +1,17 @@
+Esta aplicación hará que siempre te despiertes de buenas
+Ciudad de México.- Si no eres de esas personas que aman las mañanas, sabrás que despertar muy temprano es algo muy doloroso.
+Querer dormir más siempre te puede meter en problemas, el clásico “cinco minutos más” que siempre se convierten en 30 minutos después, provoca que llegues tarde al trabajo.
+Para evitar todos esos trastornos matutinos, Microsoft lanzó una aplicación que siempre te hará despertar de buenas. La Mimicker Alarm es una app para teléfonos Android que cuenta con tres juegos para levantarte y mantenerte despierto.
+Express Yourself. Escoger un horario para despertar, luego, cuando despiertes, la app te pedirá que frente a la cámara del teléfono hagas la expresión que pide. Al final, toma una foto y la puedes compartir en redes sociales.
+Color Capture. La aplicación pide un color y tienes que tomar una foto a un objeto que sea de un color similar.
+Tongue Twister. En este juego tienes que repetir la frase que aparece en la pantalla del teléfono. Necesitarás buena dicción y habilidad mental para hacerlo bien.
+Todo comienza con ignorar la alarma. Si el usuario no la toma en cuenta, automáticamente el juego se retrasa cinco minutos. Al desechar la alarma, la app lo manda a silencio, pero el usuario tendrá que completar el reto en 30 segundos.
+De no completar el juego a tiempo, Mimicker asume que el usuario volvió a dormir y comenzará a sonar de nuevo. Sólo es necesario completar un juego para callar la alarma. Se pueden elegir los sonidos del juego que se desea jugar.
+
+ 
+De acuerdo con Microsoft, esta aplicación es parte de sus proyectos para democratizar el uso de la Inteligencia Artificial. En su blog, la empresa de Bill Gates señala:
+Los juegos son un forma de mostrar las varias aplicaciones de aprendizaje del Microsoft Project Oxford, las cuales, se enfocan en las emociones, la visión en computadora y el habla.”
+
+Para Allison Light, gerente de programa del equipo que desarrolla aplicaciones para el Project Oxford, Mimicker es una muestra del trabajo creativo que se puede hacer con este tipo de iniciativas.
+ 
+Jbf

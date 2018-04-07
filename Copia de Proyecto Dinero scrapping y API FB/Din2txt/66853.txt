@@ -1,0 +1,6 @@
+Adiós Internet Explorer, se va la próxima semana
+Ciudad de México.- Para el próximo 12 de enero Microsoft planea dejar de prestar soporte técnico a las versiones de Internet Explorer 8, 9 y 10.
+Además, Microsoft señala que la versión 11 será la única que funcionará por un rato más. Recibirá actualizaciones de seguridad, corrección de errores y soporte técnico para los sistemas operativos Windows 7, 8.1 y 10.
+Este es el primer paso que Microsoft dará para introducir Edge, el nuevo navegador que recientemente lanzó, y que vendrá a sustituir a Explorer. Aunque ciertamente no hay alguna buena razón para que alguien insista en utilizar Internet Explorer.
+
+Jbf

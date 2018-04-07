@@ -1,0 +1,15 @@
+Este invento mexicano quiere evitar la muerte de ciclistas
+Ciudad de México.- Estudiantes universitarios desarrollan un sistema de seguridad, el cual, consiste en un chaleco y una apliación para Twitter que emite alertas en caso de un accidente.
+El académico, Roberto Rivas y el estudiante de Física, Damián Real, de la Facultad de Ciencias de la Universidad Nacional Autónoma de México (UNAM) explican que el chaleco permite que focos LED, que se ubican al centro de la prenda, se mantengan encendidos durante el recorrido.
+Mientras que otros LED, cerca del costado de la prenda, se encienden cuando el usuario hace un movimiento con los brazos que asemeja a las direccionales de un automóvil, comentan en entrevista los creadores.
+Los universitarios resaltan que la aplicación, que se descarga de manera gratuita en el celular, registra la ruta del ciclista y envía la alerta y geolocalización del percance.
+¿Cómo funciona?
+La prenda tiene una serie de acelerómetros y un cerebro central que se autocalibra, es decir, los sensores se ajustan al movimiento del ciclista y respetan los movimientos naturales del cuerpo.
+De modo que cuando el ciclista se enfrena de manera abrupta o hay un cambio de velocidad intempestivo, el sistema activa una alarma que puede ser desactivada en diez segundos.
+De no hacerlo, la aplicación, que funciona con el uso desde la primera versión de Android, envía un mensaje vía Twitter para que “busquen o llamen al ciclista”.
+Para ello, sí se requiere que el celular tenga un paquete de datos, precisan los jóvenes, quienes señalan que el chaleco se puede usar en cualquier condición climatológica, es ligero, práctico y portátil, ya que se puede guardar en una mochila.
+Detallan que la idea surgió hace año y medio debido a dos razones, la primera porque al caer un amigo de la bicicleta y pegarse en la cabeza nadie supo qué pasó con él hasta que llegó al hospital donde estuvo grave, lo que los llevó a detectar la necesidad de un sistema de alerta que avisara en tiempo real sobre un accidente.
+La segunda razón es porque los automovilistas no siempre ven a los ciclistas por falta de luminosidad y algunos ciclistas no respetan las señales de tránsito, manejan en sentido contrario, se pasan de un carril a otro y dan vuelta sin avisar.
+Ante ello, este sistema de seguridad contribuiría a una cultura vial en la que ciclistas y motociclistas tuvieran el mismo lenguaje que los automovilistas, lo que contribuirá a reducir accidentes y los llamados “muertos fantasmas”.
+ 
+Jbf

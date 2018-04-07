@@ -1,0 +1,8 @@
+Intel crea un casco tan útil como el de Iron Man
+CIUDAD DE MÉXICO.- Intel presentó en el CES 2016 un casco que hace uso de la tecnología de realidad aumentada de una manera productiva y no enfocada al entretenimiento.
+El casco inteligente, producido en conjunto con la empresa de realidad aumentada Daqri, ofrece una visión similar a rayos x para el sector industrial. Así, el portador puede trabajar en objetos como máquinas en tiempo real, mientras se despliega sobre la pantalla información como diagramas, esquemas o partes que necesitan reparación.
+La tecnología RealSense de Intel que utiliza el casco integra una cámara con sensores de 360 grados, un procesador Core m7, así como la tecnología de Daqri de visión computarizada y sistema de rastreo de objetos.
+El casco ha sido probado por empresas de Fortune 100 en las industrias aeroespacial, de construcción y petroleras, según Intel. Su salida al mercado se dará en el primer trimestre del año.
+El Daqri Smart Helmet es un gran ejemplo de la integración de una interfaz humano-máquina avanzada en dispositivos existentes para hacer algo inteligente y resolver problemas potenciales”, dijo Bridget Karlin, directivo de Intel encargado del internet de las cosas.
+
+*gl

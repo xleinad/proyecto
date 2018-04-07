@@ -1,0 +1,23 @@
+Las computadoras que piensan como humanos ya están aquí
+CIUDAD DE MÉXICO.- Una máquina que reconoce a una persona u objeto en una fotografía, que puede aprender cosas nuevas como si fuera un niño, o que es capaz de razonar más rápido que el ser humano, ya no ocurre sólo en la ciencia ficción.
+Empresas como IBM, Qualcomm o Google se han enfocado en los últimos años en investigar cómo se puede hacer a las máquinas más inteligentes, útiles y eficientes, lo que ha dado como resultado la computación cognitiva.
+Ésta que es también llamada la tercera ola de la computación significa que los sistemas usan un proceso similar a la conducta humana, por lo que observan, luego interpretan, analizan y finalmente toman una acción. Esto deja atrás el uso de los tradicionales sistemas binarios que le indican a la máquina lo que debe hacer.
+Hace ya algún tiempo que estamos trabajando en la computación cognitiva. Queremos ver cómo podemos emular la forma de pensar de la mente humana, la cual tiene muchas ventajas sobre la forma tradicional, la binaria”, indicó el presidente de Qualcomm Latinoamérica, Rafael Steinhauser.
+
+Destacó que una ventaja es el consumo de energía, ya que la mente humana sólo requiere 20 vatios para analizar gran cantidad de información, lo que representa una pequeña fracción de la energía que requiere una computadora. “A lo que se añade la capacidad de reconocimiento, ya que el ser humano puede ver a una persona y saber si es hombre o mujer inmediatamente”.
+David Ruiz, director de la unidad de Watson IBM México, coincide en que la computación cognitiva podrá realizar todas esas acciones e ir más allá, ya que la tecnológica prevé que las máquinas con esta tecnología sean capaces de aprender y ser entrenadas.
+Muestra de esto es que la computadora Watson, que usa este procesamiento basado en los sistemas neurológicos, no tiene límite al momento de aprender, ya que puede leer ocho mil páginas por segundo, por lo que en un día puede volverse experta en finanzas o leyes.
+La expectativa sobre esta tecnología es tan alta que consultoras como MarketsandMarkets prevé que la industria de la computación cognitiva genere un mercado de 12,550 millones de dólares en el mundo para 2019.
+
+ 
+Los equipos
+Tanto IBM como Qualcomm están tratando de llevar lo más pronto posible al mercado soluciones basadas en la computación cognitiva. En el primer caso ya están utilizando a la computadora Watson para brindar servicios a las instituciones financieras.
+
+En México, instituciones financieras como Banorte están comenzando su adopción con el objetivo de conocer mejor a los clientes y, de esta forma, ofrecer servicios o productos mucho más personalizados.
+Mientras que Qualcomm se centró en llevar esta tecnología a procesadores que puedan colocarse en los dispositivos que las personas utilizan en su día a día. Por ejemplo, el chip 618IP está dedicado a las cámaras de videovigilancia para que ésta, sin necesidad de una computadora, logre reconocer la voz o rostro de una persona fugitiva.
+Otros como el chip 820 es para smartphones, y su objetivo es analizar los hábitos del usuario para encontrar anomalías y hay otro llamado 820A dedicado a los automóviles.
+Steinhauser adelantó que estos dos chips estarán disponibles en más de 80 productos antes de que termine el año.
+ 
+El futuro
+La salud es otro de los sectores que se puede beneficiar con este tipo de computación, y muestra de ello es que la Fundación de la Asociación de Tecnología al Consumidor de Estados Unidos firmó una iniciativa de colaboración con IBM.
+El objetivo es que la tecnológica investigue cómo la computación cognitiva puede proveer mejor información para ayudar a las personas mayores y con discapacidades.

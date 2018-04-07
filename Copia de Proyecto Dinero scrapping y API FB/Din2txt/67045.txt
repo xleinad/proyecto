@@ -1,0 +1,12 @@
+Este es el número de identificación que distingue a cada celular
+Ciudad de México.- Desde que son fabricados, cada teléfono celular del mundo cuenta con un número de identificación que lo distingue de manera única, el cual, es denominado IMEI y que debe ser anotado al momento de comprar el equipo.
+Dicho código internacional de identidad es la huella del dispositivo móvil, equiparable a la huella digital de las personas y se compone de 15 a 17 dígitos.
+Este número también permite conocer si el dispositivo que se desea adquirir no está incluido en la lista mundial de equipos robados, o bien en caso de robo o extravío del teléfono se puede reportar, así el celular podrá ser desactivado para evitar su uso posterior.
+¿Dónde encuentro el IMEI?
+Actualmente, y con el auge de los smartphones, existen varias maneras para localizarlo, dependiendo del fabricante del teléfono, puede ser marcando desde el celular *#06#; también se puede encontrar en una etiqueta blanca debajo de la batería de tu dispositivo.
+Cabe recordar que con el fin de ofrecer seguridad a los clientes, el Instituto Federal de Telecomunicaciones (IFT) y la GSMA, organización de operadores móviles, firmaron un acuerdo para que mediante una herramienta en línea, el usuario pueda saber si un dispositivo móvil ha sido reportado como robado o extraviado.
+La herramienta se puede encontrar en el portal del IFT. El servicio está dirigido sólo a usuarios con teléfonos celulares que operan en México y está limitado a dos consultas al día.
+En caso de extravío del celular, lo primero que se debe hacer es solicitar el bloqueo de la línea, del chip y del IMEI, vía telefónica o en un centro de atención de la compañía, con ello se evitaría que el equipo sea reactivado, flexeado o usado en actos delictivos.
+De acuerdo con datos de 2014, en México existen 102.2 millones de suscriptores de telefonía móvil.
+ 
+Jbf

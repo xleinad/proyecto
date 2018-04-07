@@ -1,0 +1,12 @@
+Crea inteligencia artificial con este curso gratis de Google
+CIUDAD DE MÉXICO.- Existen diversas plataformas que nos permiten tomar cursos en línea de manera gratuita y lo mejor de todo es que son diseñados por prestigiadas universidades e instituciones, como Google.
+La firma puso en línea mediante la plataforma Udacity, un nuevo curso gratuito impartido por sus ingenieros y centrado en el ‘aprendizaje profundo’ o deep learning.
+Aunque no está dirigido a principiantes, pues es necesario contar con conocimientos sólidos en programación, los conocimientos que compartirán son de interés para todos pues se trata de una de las tendencias con más relevancia para las firmas tecnológicas alrededor del mundo.
+El deep learning intenta crear algoritmos que simulan el proceso que lleva a cabo el cerebro cuando se trata de reconocer rostros, voces o palabras, para diseñar sistemas inteligentes. Algo que se ha convertido en un área importante para Google, Apple, Facebook y Microsoft, por nombrar sólo a las firmas más destacadas.
+“Hemos creado este curso con Vincent Vanhoucke, Principal Scientist en Google y líder técnico en el equipo Google Brain”, se resalta en la descripción del curso.
+Las lecciones tienen una duración de tres meses y se requiere de al menos seis horas a la semana para aprovechar el curso, en el que los alumnos aprenderán el manejo de TensorFlow, un sistema de código abierto de aprendizaje automático (machine learning), que Google utiliza en sus propios productos.
+Nuestra meta principal al diseñar el curso es brindar un rápido y directo camino a los entusiastas del aprendizaje automático para que resuelvan problemas reales e interesantes mediante las técnicas de aprendizaje profundo”, escribió Vincent Vanhoucke en el blog de Google.
+
+Los alumnos pueden inscribirse cuando quieran y concluir el curso a su propio paso y lo mejor es que es gratuito.
+Si quieres inscribirte o conoces a alguien que le pueda interesar, las inscripciones se hacen a través de este link.
+*DR

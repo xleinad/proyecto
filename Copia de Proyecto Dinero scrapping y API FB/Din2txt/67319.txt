@@ -1,0 +1,9 @@
+Así es como el iPhone te ayudará a dormir mejor
+CIUDAD DE MÉXICO.- En el mundo de la salud existe el consenso de que las luces "frías", como las que emiten la televisión o los celulares, pueden ser malas para las personas en ciertas horas.
+Las luces frías afectan el ciclo circadiano, el que regular el sueño y las comidas, lo que puede causar que el descanso no sea efectivo y se presenten alteraciones.
+¿Sabes cómo la exposición a la luz afecta tu salud?
+Apple quiere resolver este problema y ha liberado en la beta del iOS 9.3 una nueva función llamada “Night Shift” que hará que la paleta de colores de la pantalla se vuelva más cálida una vez que el sol se oculte.
+Esto ayudará a que el ciclo del sueño no se vea afectado por la luz del dispositivo.
+La beta está disponible ya para desarrolladores y usuarios de prueba y para activarla deben ir a Configuración > Pantalla y Brillo > Reducción de luz azul. Ahí podrán activar la función y ajustar la calidez de la pantalla, así como la hora en que deberá activarse.
+Se espera que esta función llegue a todos los usuarios una vez que la versión de iOS 9.3 termine la fase beta.
+*gl

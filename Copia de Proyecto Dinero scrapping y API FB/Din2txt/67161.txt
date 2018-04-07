@@ -1,0 +1,10 @@
+¿En qué etapa está el Internet de las Cosas en México?
+CIUDAD DE MÉXICO.- La necesidad de los mexicanos de estar conectados en todo momento y lugar está provocando que la inversión en soluciones, plataformas y dispositivos relacionados con el Internet de las Cosas (IoT, por sus siglas en inglés) esté creciendo exponencialmente, “y que existan grandes oportunidades en el país”, aseguró el director general en México de IDC, Édgar Fierro.
+Al presentar el estudio Índice de Innovación de la Sociedad 2016, dijo que el IoT está impactando en la vida de personas, empresas y gobierno, reflejándose en el monto de inversión que alcanzó 1.9 mil millones de dólares en el país al cierre de 2015.
+Hay que recordar que esta corriente tecnológica se refiere a que cualquier dispositivo puede conectarse a la red para enviar información o comunicarse con otros equipos, con el fin de tener funciones que sean útiles.
+De hecho, la conectividad es una parte muy importante para los mexicanos, porque el 24% de los encuestados en el estudio encargado por Qualcomm, tienen un equipo conectado a la red que puede ser un celular, una televisión, una cámara u otros.
+Vemos alrededor de 223 millones de dólares de inversión para dispositivos conectados en el hogar”, dijo Fierro.
+
+A lo que se añaden inversiones por parte de los mexicanos en vehículos conectados, equipos para el cuidado de la salud y nuevas categorías como los wearables.
+Indicó que el sector empresarial mexicano es el que más invirtió en IoT durante el año pasado, siendo la industria de manufactura y la de logística las más ávidas.
+Lo anterior, porque se ha visto que el uso de estas soluciones y dispositivos ayudan a aumentar la productividad, ser más competitivos y, a la larga, reducir costos.

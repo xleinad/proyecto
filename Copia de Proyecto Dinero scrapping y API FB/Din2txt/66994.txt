@@ -1,0 +1,14 @@
+¡Cuidado! Circula correo falso de Bancomer
+CIUDAD DE MÉXICO.- Obtener información mediante un correo falso se ha convertido en una práctica común de delincuentes, y esta práctica es mejor conocida como 'phishing'. El primer caso reportado en el año es un mail apócrifo de Bancomer, que indica al usuario no haber realizado el proceso de sincronización de su dispositivo “Token” de banca electrónica, por lo que su cuenta ha sido deshabilitada para evitar futuros problemas.
+
+ 
+En un comunicado, la Condusef informó que este tipo de mensajes por correo electrónico, contienen ligas que los llevan a un sitio de internet falso, donde les solicitan sus datos personales tales como nombre, domicilio, contraseñas, número de identificación personal (NIP), número de cuenta bancaria de tarjetas de crédito, débito, etc., para posteriormente cometer fraude con sus cuentas bancarias.
+El organismo emitió durante el año 2015 un total de 10 alertas a los usuarios de servicios financieros por casos de phishing.
+Ninguna entidad financiera, así como Visa o Mastercard, solicitan datos personales a sus clientes o verificación de sus cuentas mediante correo electrónico.
+Para evitar ser víctima de phishing la Condusef recomienda:
+Utilizar claves fáciles de recordar, pero difíciles de adivinar.
+Cambiar contraseñas de manera regular y utiliza contraseñas diferentes, si tienes más de una cuenta.
+Desactivar la opción "recordar contraseñas" en el servicio de banca por Internet.
+Procurar no apartarse de la computadora cuando tengas abierta una sesión de banca por Internet, ni dejar el token a la mano.
+No realizar transacciones financieras en computadoras de uso público.
+*DR
