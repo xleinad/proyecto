@@ -1,0 +1,14 @@
+Facebook te recuerda todo, hasta tus búsquedas más raras
+Ciudad de México.- Al parecer, con el fin de mejorar su motor, Facebook ha comenzado a instalar una serie de sugerencias que resultan un poco raras al momento de realizar búsquedas de tus amigos.
+La nueva característica es un software que reconoce cosas de la data, por ejemplo, palabras y fotografías, que tienen sentido para las personas, pero no necesariamente aplica a las computadoras.
+En esencia, genera sugerencias de acuerdo a lo que hizo y buscó antes el usuario en Facebook. Es decir, la red social toma en cuenta las publicaciones con las que se ha interactuado, y recuerda palabras relacionadas.
+
+En algún momento, se pensó en implementar un algoritmo que permitiría a Facebook reconocer cuando una persona se veía intoxicada en una foto por publicar, y así, la inteligencia artificial sugeriría no hacerlo. Hasta el momento eso no ha pasado.
+En buena medida, las palabras que reconoce son aquellas que cuentan con hashtags, por eso, algunas de las publicaciones que se hacen en Instagram y se comparten en Facebook se relacionan con palabras raras y que están fuera de contexto de una red social a otra.
+La inteligencia artificial sabe las cosas que nos preocupan e interesan, y puede reconocer verbos y objetos, y juntarlos para sugerir una búsqueda.
+Como sabemos, Google tiene un sistema similar en las búsquedas. Su motor recuerda las palabras que hemos buscado en el pasado, y en al momento de mostrar las sugerencias de autocompletar, aparecen términos de antes y frases relacionadas.
+La aplicación de fotos de Google cuenta con estas características, el software es capaz de reconocer personas, identificar tipos de animales y otras cosas más. No siempre es perfecto, pero es bastante acertado.
+Por ahora este es un primer intento de mejorar las interacciones en la red social, sin embargo, también debemos tener cuidado con lo que nos presenta Facebook, pues de alguna forma, esta puede ser una manera de manipular nuestras acciones.
+Pero como todo, depende del uso que le demos a las cosas, por ejemplo, podría tener mejores usos para el marketing, o en algunos casos, funcionaría como un servicio que permite recordar personas u objetos a aquellas personas que tienen enfermedades degenerativas en el cerebro.
+ 
+Jbf

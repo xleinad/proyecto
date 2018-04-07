@@ -1,0 +1,11 @@
+Uber nunca llega a tiempo por esta razón
+Ciudad de México.- Sí, parece que Uber nos miente en cuanto al tiempo de llegada del auto que nos transportará. Y es que la espera que da la aplicación nunca es la misma que la que ocurre en la realidad.
+Para despejar dudas y mitos, Travis Kalanick, CEO y fundador de Uber, escribió unos tweets para aclarar las cosas relacionadas con este tema.
+Desde su cuenta de Twitter, Kalanick explicó lo siguiente:
+En momentos de gran demanda más del 90% de los coches son enviados entre las 1,000 solicitudes realizadas entre determinado número de minutos.
+Es muy probable que los coches que se ven al momento de solicitar el servicio ya se hayan asignado desde antes, pues aun tienes que esperar a que tu solicitud sea procesada.
+Algunas veces obtienes un auto que está más lejos del auto más cercano, y en otras ocasiones obtienes el auto más cercano que el asignado en un inicio.
+En barrios con menor liquidez, si el primer conductor no acepta la solicitud, entonces el siguiente conductor en cercanía podría estar más lejos.
+La mejor manera de minimizar el tema de la diferencia es comunicar estadísticamente el tiempo estimado, el cual siempre será diferente del real, pero será menos diferente o errado que el promedio.
+ 
+Jbf

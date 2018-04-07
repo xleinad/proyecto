@@ -1,0 +1,18 @@
+La app que podría ayudarte a salir del peligro
+CIUDAD DE MÉXICO.- De acuerdo con el estudio Índice de Competitividad 2015 del Instituto Mexicano para la Competitividad, los niveles de inseguridad en México han impactado altamente diversas esferas de la vida nacional, entre ellas, los costos de hacer negocios.
+Por ejemplo, en 2013, México obtuvo una calificación de 3.1 puntos de siete posibles, lo que lo dejó por debajo del promedio de los países evaluados y lo ubicó en el lugar 40 de 43 países evaluados.
+Ante este y otros factores, la firma de seguridad privada, GMSI, decidió crear una aplicación móvil gratuita que funciona como herramienta de seguridad e información para los ciudadanos mexicanos: ProteGM.
+Hecha con el objetivo de ser útil para la sociedad, para su seguridad y prevención de delitos, la app cuenta con un botón de pánico para auxilio del usuario, un directorio completo de dependencias gubernamentales de emergencias a nivel nacional de más de cien municipios del país, consejos de seguridad para evitar ser víctima de algún delito y un mapa delincuencial con cifras a nivel nacional y estatal.
+
+ 
+¿Por qué hacer una app de seguridad?
+Encontramos que había falta de información en cuanto a dependencias de emergencias gubernamentales y nos cercioramos de tenerla correcta en más de cien municipios, ya que es importante saber a dónde acudir o dónde comunicarse en caso de una eventualidad o emergencia”, declaró el vocero de GMSI, Daniel García.
+
+Asimismo, mencionó algunos casos en los que esta app podría ser de gran utilidad, como cuando se sufre un accidente o algún percance y el usuario no sabe en dónde se encuentra, pero con el botón de pánico sus contactos (que haya escogido previamente) obtendrán las coordenadas precisas de la localización del usuario a través de un aviso vía SMS o correo electrónico.
+Además, destacó que GMSI veía como una necesidad agregar un valor más a sus servicios con esta herramienta como “una opción más ante la situación (del país)”.
+También tratamos de concientizar a la gente sobre la delincuencia que hay en el país y sobre todo en su estado, ya que no es lo mismo lo que sucede en uno u otro y con el mapa delincuencial sabrás donde hay que ser más precavido”.
+
+“Lo que nos apasiona de esta app es que podemos hacerla aún mejor, darle más información, más herramientas, mejor experiencia de usuario y un diseño más atractivo y ya estamos trabajando en eso para que en este año tengamos una mejor versión de ProteGM”, sentenció García.
+La app –que es gratuita– se encuentra disponible en todos los sistemas operativos en smartphones: Android, IOS, Windows Phone y Blackberry.
+Conoce y dale feedback a startups como ProteGM en Early Adopters
+*livm

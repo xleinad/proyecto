@@ -1,0 +1,10 @@
+Secuestradores de compus o celulares lo hacen así de fácil
+CIUDAD DE MÉXICO.- Los cibercriminales han encontrado un mercado muy prolífico en el uso del ransomware, porque éste les permite secuestrar computadoras y dispositivos móviles para pedir un rescate, lo que les genera ganancias por hasta 34 millones de dólares en un año, reveló el responsable de ventas de seguridad de Cisco México, Rafael Chávez.
+“Se trata de un negocio redondo para los piratas informáticos porque reciben dinero fácil y las víctimas no suelen denunciar estos ataques”, explicó al presentar el Reporte Anual sobre Seguridad Cisco 2016.
+
+El método que ocupan los cibercriminales es infectar el dispositivo con un ransomware que les permite tomar control de la carpeta de fotos o de varios documentos y encriptarlos, por lo que el usuario debe contar con una llave para poder acceder a ellos.
+Cisco encontró que el costo para liberar la información se ubica en promedio en 300 dólares, y cada día hay aproximadamente 317 ataques de este tipo, por lo que si todos son pagados se trata de un mercado que deja ganancias a los cibercriminales por 34 millones de dólares al año.
+Chávez añadió que los delincuentes no “cobran cantidades estratosféricas” por las fotos o documentos secuestrados, porque saben que las víctimas no pagarían.
+
+
+*bb

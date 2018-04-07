@@ -1,0 +1,8 @@
+Estos son los beneficios del apagón analógico
+CIUDAD DE MÉXICO.- Los canales de televisión tienen asignado un espacio en el espectro radioeléctrico y en el sistema análogo no es posible colocarlos juntos debido a la interferencia que se generan entre ellos. Por lo anterior es que no existen los canales 10 ni 12, pues hay un 11.
+Sin embargo, la televisión digital terrestre (TDT) permite colocar canales con menor espaciamiento, con lo que se consigue tener más frecuencias. Además, cada uno puede transmitir cuatro videos –tres en calidad estándar (SD, standar definition) y uno en alta definición (HD, high definition).
+También, la TDT ocupa menos espectro, por lo que es factible aprovecharla para mejorar la transmisión de datos por banda ancha.
+“En este sentido, el IFT ya tiene definido que usará las frecuencias entre 700 y 800 MHz, actualmente canales de TV, para banda ancha, y además ya proyecta hacer lo mismo con las frecuencias entre 600 y 700 MHz”, señaló José María Matías, investigador de la Facultad de Ingeniería de la UNAM.
+Esta liberación beneficiará a los usuarios que utilicen la siguiente generación de celulares (LTE), pues tendrán acceso a televisión y radio por internet y mayor velocidad en los datos, además de acceso a canales y estaciones de todo el mundo.
+Para la conversión a TDT existen diversos estándares. En nuestro caso se eligió el ATSC (Advanced Television Systems Committee), tecnología desarrollada en Estados Unidos, la cual, de acuerdo con el investigador no es la mejor, pues permite menos posibilidades.
+*livm

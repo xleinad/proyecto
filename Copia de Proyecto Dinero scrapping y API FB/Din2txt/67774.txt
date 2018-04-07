@@ -1,0 +1,16 @@
+Con esta bici creada por estudiantes mexicanos podrás cargar tu celular
+CIUDAD DE MÉXICO.- Un grupo de universitarios de la Facultad de Ciencias de la Electrónica de la BUAP creó un prototipo único a nivel mundial, de una bicicleta que al usarla genera electricidad mediante un sistema de amplificación y almacenamiento de energía.
+Javier Méndez Mendoza y José Ignacio Becerra Ponce de León, directores del proyecto Diseño y Construcción de Bicicletas Generadoras de Energía del Instituto de Ciencias de la BUAP, señalaron que aprovechan la energía que resulta de usar 1,300 bicicletas del programa Lobobici, en Ciudad Universitaria.
+Con dicha bicicleta es posible cargar dispositivos electrónicos como teléfonos celulares y computadoras portátiles y suministrar energía al conjunto de leds del vehículo, como elementos de seguridad.
+Los creadores del prototipo son Erick Yarel Valdez Guevara, Ernesto Mario Garza Ortiz, Ana Laura García Cruz, María Fernanda Rodríguez Eguibar, Pedro Alberto Aquino Rodríguez y Gerardo Guerrero Báez, de la Facultad de Ciencias de la Electrónica de la BUAP.
+De acuerdo con la BUAP, es una tecnología única a nivel global, la cual aprovecha energías limpias y promueve el uso responsable y seguro de la bicicleta, como un transporte ecológico y recreativo que incentiva la actividad física, ejemplo de sustentabilidad.
+En un día de horario regular del servicio Lobobici de 08:00 a 19:45 horas, una sola bicicleta genera dos veces la potencia de 84 watts/ 12 volts.
+Si se guardara la energía producida por muchos usuarios en un día, sería posible iluminar durante 7 horas el circuito interno de Ciudad Universitaria, de la avenida 24 Sur hasta la 14 Sur, pero además sobraría energía”, destaca el comunicado.
+
+Los especialistas de la BUAP mencionan que en el proyecto se plantea que con la energía generada, la cual se almacena en una batería montada en la parte trasera de la bicicleta, los usuarios puedan recargar la pila de diversos dispositivos electrónicos como teléfonos móviles, laptops y tabletas.
+Si un estudiante requiere trasladarse de la Facultad de Ciencias de la Computación a la Biblioteca Central, en los cerca de 15 minutos que dura el recorrido, podrá recargar de 30 a 40% de la pila de su celular”, comentaron.
+
+Los investigadores señalaron que también es capaz de suministrar energía al conjunto de leds instalados en las bicicletas como mecanismos de seguridad y decoración como son lámparas, luces direccionales, traseras y frenado, entre otros aditamentos.
+Adelantaron que debido a las características de este prototipo, el sistema de generación de energía se instalará también en varias unidades de Lobobici PLU -Parque Lineal Universitario que comunica Ciudad Universitaria con el Edificio Carolino-, por lo que, una persona que recorra los 4.5 kilómetros de esta ciclovía, podrá generar energía suficiente para cuatro horas y media de carga de una computadora portátil, por ejemplo.
+
+*DR

@@ -1,0 +1,20 @@
+Esta es la primera pila que se apaga y se prende en ciclos de calor y frío
+LONDRES.- Investigadores de la Universidad británica de Stanford han desarrollado la primera pila de litio e ión que se apaga antes de recalentarse y se reinicia cuando la temperatura se enfría. 
+Según un estudio publicado en "Nature Energy", esta nueva tecnología podría prevenir los incendios que han causado la retirada y prohibición de muchos dispositivos que funcionan con pilas, desde sillones reclinables y ordenadores hasta sistemas de navegación y "hoverboards" o aerotablas.
+La batería consiste en dos electrodos o extremos y en un líquido o gel electrolito que lleva partículas cargadas entre sí.
+Actos como perforar, provocar un cortocircuito o sobrecargar la pila generan calor y, si la temperatura alcanza los 150 grados centígrados, el electrolito puede provocar un incendio y desencadenar una explosión.
+Algunas técnicas previas añadían resistencias al fuego o avisos antes de que la pila se recalentara demasiado, pero eran métodos irreversibles que la dejaban inoperante.
+El equipo de investigadores de Stanford recurrió a la nanotecnología, a partir de un invento reciente que consiste en un sensor portátil que controla la temperatura del cuerpo humano.
+Este sensor está hecho de plástico, con pequeñas partículas de níquel de las que sobresalen pinchos minúsculos.
+Para llevar a cabo esta prueba, los científicos cubrieron las partículas punzantes de níquel con una sustancia llamada grafeno y las introdujeron en una fina película de polietileno, un tipo de plástico.
+Según explica el director del estudio, Zheng Chen, para este experimento adjuntó la capa de polietileno a uno de los electrodos de la pila, de modo que la corriente eléctrica pudiera circular a través de esta.
+"Para conducir electricidad, las partículas con puntas tienen que tocarse físicamente entre sí, pero durante una expansión térmica, el polietileno se estira, lo que provoca que las partículas se difundan", afirma el investigador.
+
+De este modo, relata, la película se vuelve no conductora, por lo que la electricidad no puede fluir a través de la pila.
+Cuando el equipo de científicos calentó la batería por encima de los 70 grados centígrados, la capa de polietileno se expandió como un balón, lo que causó que las partículas en punta se separaran y la batería se apagara.
+Cuando la temperatura descendió hasta los 70 grados, el material se encogió, las partículas entraron en contacto de nuevo y la pila empezó a generar energía una vez más.
+"Podemos incluso ajustar la temperatura más alta o más baja dependiendo de cuántas partículas introducimos o qué tipo de material polimero escogemos", indica el profesor de química Zhenan Bao.
+
+El ingeniero de la Universidad de Stanford y coautor de este estudio, Yi Cui, señala que este diseño, en comparación con anteriores ensayos, "ofrece una estrategia fiable, rápida y reversible que puede mejorar la seguridad".
+
+*bb

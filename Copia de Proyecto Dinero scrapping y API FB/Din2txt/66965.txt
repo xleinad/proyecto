@@ -1,0 +1,11 @@
+Así es como Facebook planea hacer dinero de Messenger
+CIUDAD DE MÉXICO.- ¿Qué pensarías si uno de los personajes de la serie Game of Thrones te contactara por Messenger de Facebook para recordarte sobre el estreno de la nueva temporada?
+Este tipo de interacción es una forma en la que Facebook podría monetizar la plataforma de mensajería; mediante la creación de bots que puedan charlar y al mismo tiempo promocionar algo.
+La red ha dado a algunos desarrolladores un kit de software para que diseñen programas informáticos que imitan el comportamiento humano, mejor conocidos como bots.
+Imperson, una startup de Israel, ya utilizó la tecnología para crear personajes ficticios famosos de películas o series de televisión, que son usados en campañas de marketing en Messenger.
+Business Insider interactuó con uno de estos bots, uno creado por Imperson y Disney: Peggy, de Los Muppets, quien es usada para promocionar a al marca.
+Disney trabajó de cerca con la startup para dotar al bot de la personalidad correcta y para que pueda mantener una conversación con el usuario. Imperson también ha creado un bot de Doc Brown para una campaña del día de Volver al Futuro y para otra película de terror lanzada el año pasado.
+Según el medio, esto crea una experiencia nativa en Messenger, que no hace sentir incómodos a los usuarios y que permite a Facebook tener ganancias por las campañas de marketing que llevan a cabo en la plataforma marcas como Disney.
+Parece lógico que Facebook busque monetizar una plataforma que cuenta ya con 800 millones de usuarios activos al mes, a través de una forma menos invasiva y que, incluso, puede generar mayor empatía por parte del usuario hacia el personaje/bot/marca.
+¿Te molestaría una campaña de este tipo cuando usas Messenger?
+*DR

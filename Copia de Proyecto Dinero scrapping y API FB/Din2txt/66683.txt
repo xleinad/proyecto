@@ -1,0 +1,7 @@
+¿Cómo bloquear tu celular si te lo roban?
+Ciudad de México.- En caso de robo o extravío, el teléfono celular se puede desactivar mediante el Sistema Internacional para la Identidad de Equipos Móviles (IMEI).
+Pero ¿cómo hacerlo? Se puede solicitar el bloqueo de la línea, del chip y del IMEI vía telefónica o en un centro de atención de la compañía contratada para el servicio, con lo que se evitará que el equipo sea reactivado, flexeado o usado en actos delictivos.
+El Instituto Federal de Telecomunicaciones (IFT) explica que el IMEI es el código internacional de identidad que tiene cada teléfono celular y que lo distingue de manera única.
+Detalla que para obtenerlo se debe marcar *#06#, en la configuración del dispositivo, asimismo, este número también está impreso en la parte posterior del celular.
+Por ello es recomendable guardar el IMEI en un lugar seguro junto con toda la documentación del dispositivo y de la compañía telefónica.
+*livm

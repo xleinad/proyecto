@@ -1,0 +1,13 @@
+Jóvenes mexicanos triunfan con una app médica
+CIUDAD DE MÉXICO.- AT&T obtuvo los primeros resultados de su iniciativa para impulsar a desarrolladores. Entre más de 200 especialistas que se reunieron para crear aplicaciones totalmente funcionales para dispositivos móviles y el Internet de las Cosas (IoT), jóvenes mexicanos crearon una app para prestar ayuda médica.
+El nombre de este desarrollo es EMA-IOT (Emergency Medical Aid-Internet of Things), y fue diseñado para prestar ayuda médica a las personas que estén en riesgo o que hayan sufrido un accidente.
+Cuenta con una banda para el brazo contenida en un kit de emergencia, la cual está lista para ponerse en el paciente para enviar sus signos vitales a un centro de emergencias que monitorea su condición y hace un diagnóstico de su estado, con lo cual se puede salvar su vida.
+Después de más de 30 horas de trabajo continuo, el jurado dio el primer lugar al equipo EMA-IOT conformado por Christian Colorado Cervantes, Daniel Olivier Carillo, Yabin Monroy Méndez y José Luis Rubio Velázquez, jóvenes de entre 25 y 30 años en promedio.
+Los miembros del equipo coincidieron en que el siguiente paso para la aplicación es que no se quede en un concepto y se ponga a disposición del público en general, para recibir la atención médica cuando lo requiera.
+Para desarrollar la aplicación EMA-IOT, el equipo utilizó la tecnología de AT&T M2X, AT&T Flow Designer, WebRTC, y AT&T ARO, las cuales ofrecen software para desarrollar aplicaciones IoT (Internet de las Cosas).
+AT&T M2X es una herramienta de almacenamiento de datos altamente segura y escalable para dispositivos conectados a redes.
+A&T Flow Designer es una herramienta de desarrollo visual basada en la nube, orientada a acelerar el tiempo de desarrollo de nuevas aplicaciones IoT.
+La WebRTC (Web Real-time Communication) es una tecnología basada en HTML5 que permite hacer llamadas de voz y video desde un navegador.
+AT&T ARO permite optimizar las aplicaciones para la red celular de modo que utilicen una menor cantidad de la batería del dispositivo, respondan más rápidamente, y utilicen mejor la red. EMA-IOT recibió un premio de primer lugar de 10 mil dólares.
+
+*bb
